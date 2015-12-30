@@ -15,4 +15,4 @@ V]
 	B]Vous pouvez modifier les valeurs des attributs si vous le souhaitez.
 
 	
-Le projet est aussi diponible sur GitHub à cette adresse : 
+Le projet est aussi diponible sur GitHub à cette adresse : https://github.com/Nomeji/BD-S3
