@@ -1,0 +1,18 @@
+I]Première étape:
+	A)Dans le fichier BDSQL.sql executer seulement le type adresse.
+	B)Puis lancé la création des tables.(ne pas lancer les drop).
+II]Deuxième étape:
+	A)Dans le fichier fonction.sql executer les fonctions une par une.
+III]
+	A)Dans le fichier trigger.sql executer les triggers un par un.
+IV]
+	A]Dans le fichier donnéetest.sql executer tout le fichier d'un coup.
+	B]Vous pouvez enlever le commentaire sur le select à la fin pour vérifier le résultat de la table statistique.
+	C]Vous pouvez rajouter des utilisateurs et des stages si vous le voulez.
+	Ps: Attention aux année, car certaine fonction utilise l'année courante. Normalement,vous ne devriez pas avoir de problème, mais je préfère avertir.
+V]
+	A]lancer le programme java (risque de manquer ojdbc6 donc il est joint dans le programme).
+	B]Vous pouvez modifier les valeurs des attributs si vous le souhaitez.
+
+	
+Le projet est aussi diponible sur GitHub à cette adresse : 
